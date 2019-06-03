@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Material Design Component</string>
+    <string name="search_title">Search</string>
+    <string name="filter_title">Filter</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
